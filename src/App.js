@@ -55,6 +55,7 @@ const PasswordGenerator = () => {
         <span>{password}</span>
         <i className="far fa-copy copy-icon" onClick={() => navigator.clipboard.writeText(password)}></i>
       </div>
+      <p className='support'>Contact us at <a href="mailto:projects@maksimmalbasa.in.rs">projects@maksimmalbasa.in.rs</a> for support or suggestions.</p>
     </div>
   )
 }
