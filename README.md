@@ -17,7 +17,7 @@
       <li>Open your web browser and go to http://localhost:3000 to see the Password Generator app running</li>
     </ol>
     <h2>Usage</h2>
-    <p>The Password Generator has a simple UI where you can select the length of the password and which character types to include (uppercase letters, lowercase letters, numbers, and symbols). To generate a new password, click the "Generate Password" button. The generated password will be displayed on the screen. You can also click the copy icon to copy the password to your clipboard.</p>
+    <p>The Password Generator has a simple UI where you can select the length of the password and which character types to include (uppercase letters, lowercase letters, numbers, and symbols). To generate a new password, click the "Generate Password" button. The generated password will be displayed on the screen. You can also click the copy icon to copy the password to your clipboard It also checks how strong password is.</p>
     <h2>Dependencies</h2>
     <p>The Password Generator uses the following dependencies:</p>
     <ul>
